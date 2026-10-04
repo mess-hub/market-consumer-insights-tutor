@@ -1,0 +1,8 @@
+.env
+.course_config.json
+.resource_manifest.json
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+.tmp_*
